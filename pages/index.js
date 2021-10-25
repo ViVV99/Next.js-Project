@@ -1,3 +1,5 @@
+// domain.com/
+
 function HomePage() {
     return <div>Hello World From Next.js!</div>
 }
